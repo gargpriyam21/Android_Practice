@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">RedFox News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Anonymous">Anonymous</string>
+    <string name="Trending">Trending</string>
+    <string name="Vs">VS</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner_tech">
+        <item>TechRadar</item>
+        <item>TechCrunch</item>
+        <item>Polygon</item>
+        <item>Engadget</item>
+        <item>Hacker News</item>
+        <item>Ars Technica</item>
+    </string-array>
+
+    <string-array name="spinner_movies">
+        <item>Upcoming Bollywood Movies</item>
+        <item>Upcoming Hollywood Movies</item>
+    </string-array>
+
+    <string-array name="spinner_sports">
+        <item>BBC Sport</item>
+        <item>ESPN</item>
+        <item>ESPN Cric Info</item>
+        <item>Football Italia</item>
+        <item>FourFourTwo</item>
+        <item>Fox Sports</item>
+        <item>NFL News</item>
+        <item>TalkSport</item>
+        <item>The Sport Bible</item>
+    </string-array>
+
+    <string-array name="spinner_main">
+        <item>The Times Of India</item>
+        <item>The Hindu</item>
+        <item>ABC News</item>
+        <item>The New York Times</item>
+        <item>BBC News</item>
+        <item>New York Magazine</item>
+        <item>CNN</item>
+    </string-array>
+
+    <string-array name="spinner_business">
+        <item>CNBC</item>
+        <item>The Economist</item>
+        <item>Financial Times</item>
+        <item>Fortune</item>
+        <item>Bloomberg</item>
+        <item>Business Insider</item>
+        <item>The Wall Street Journal</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>

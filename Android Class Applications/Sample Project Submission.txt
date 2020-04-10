@@ -1,0 +1,37 @@
+# Sample Project Submission
+
+Bamboozled!! Could there be any more interesting QUIZ..
+
+My app is a quiz which is based on a Famous TV Show F.R.I.E.N.D.S. This quiz app provides an entertaining and interesting interactive questions from the show. Questions Contains multiple choice questions. It consists of Two rounds Simple and rapid-fire Round….. :)
+
+## Objective
+
+This app is helpful as it can be used to compare with others and also help to check your knowledge about the show.
+
+## Screenshots / Demos
+
+![Screenshot 1: Start Page](https://s14.postimg.org/mqhye4eep/Screenshot_20180102-152449.png)
+
+![Screenshot 2: Simple Round](https://s14.postimg.org/rce2mhusx/Screenshot_20180102-152457.png)
+
+![Screenshot 3: Rapid Fire](https://s14.postimg.org/wnsz76tq9/Screenshot_20180102-152530.png)
+
+![Screenshot 4: Last Page](https://s14.postimg.org/y2ujvxa8x/Screenshot_20180102-152513.png)
+
+![Screenshot 5: Instructions](https://s14.postimg.org/t471hetld/Screenshot_20180102-152541.png)
+
+![Screenshot 6: History](https://s14.postimg.org/3y63ajxg1/Screenshot_20180102-152607.png)
+
+![Screenshot 7: Logo](https://s14.postimg.org/klxld0xch/bamboozled_logo.png)
+
+![Screenshot 8: Top Logo](https://s14.postimg.org/62qgblwht/ap2.png)
+
+## Challenges
+
+- The Basic challenge is the UI
+- The Database to store results
+
+## Credits 
+
+Built by - 
+ - Priyam Garg

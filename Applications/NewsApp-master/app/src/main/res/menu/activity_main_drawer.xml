@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navNews"
+            android:title="News"
+            android:icon="@drawable/newspaper"/>
+
+        <item
+            android:id="@+id/navSports"
+            android:title="Sports"
+            android:icon="@drawable/soccer"/>
+
+        <item
+            android:id="@+id/navTech"
+            android:title="Technology"
+            android:icon="@drawable/robot"/>
+
+        <item
+            android:id="@+id/navBusiness"
+            android:title="Business"
+            android:icon="@drawable/currency"/>
+
+        <item
+            android:id="@+id/navMovies"
+            android:title="Movies"
+            android:icon="@drawable/ic_movie_black_36dp"/>
+
+        <item
+            android:id="@+id/navBrowse"
+            android:title="Browse"
+            android:icon="@drawable/search"/>
+
+    </group>
+
+    <item android:title="Activities">
+        <menu>
+
+            <item
+                android:id="@+id/navNotes"
+                android:title="Notes"/>
+
+            <item
+                android:id="@+id/navInfo"
+                android:title="App Info"/>
+
+        </menu>
+    </item>
+
+</menu>

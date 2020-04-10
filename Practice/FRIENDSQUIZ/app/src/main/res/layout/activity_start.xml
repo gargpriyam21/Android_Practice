@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background_start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="6dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="BAMBOOZLED!!!\nCould there be any more Interesting QUIZ"
+            android:textColor="#69359C"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:elevation="10dp"
+            android:src="@raw/start" />
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_state"
+            android:gravity="center"
+            android:text="Lets Play Bamboozled"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/btnLR"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_state"
+            android:gravity="center"
+            android:text="Lightning Round"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/btnInstructions"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_state"
+            android:gravity="center"
+            android:text="Instructions"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/btnHistory"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_state"
+            android:gravity="center"
+            android:text="History"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</FrameLayout>

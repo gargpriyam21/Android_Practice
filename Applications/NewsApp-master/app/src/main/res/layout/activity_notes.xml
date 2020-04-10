@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/item_tag_change_2"
+    tools:context="com.pratap.ninja.newsapp.activities.NotesActivity">
+
+    <EditText
+        android:id="@+id/etNotesAddTitle"
+        android:hint="Title"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/etNotesAddBody"
+        android:hint="Body"
+        android:padding="8dp"
+        android:textSize="13sp"
+        android:background="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
