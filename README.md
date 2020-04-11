@@ -66,3 +66,6 @@ Introduction to Animations and Social Buttons.
 
 [Lecture 20](https://github.com/gargpriyam21/Android_Practice/tree/master/Lecture20) - 
 Creating a ReadSMS Application using Firebase.
+
+[Practice](https://github.com/gargpriyam21/Android_Practice/tree/master/Practice) -
+Applications created by me for Android Practice.
